@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**adamstoregaming/adamstoregaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adamstoregaming/Adam Gaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
